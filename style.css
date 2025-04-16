@@ -1,0 +1,17 @@
+.banner {
+    background-color: brown; text-align: center ;font-size: 30px; padding: 40px;
+
+}
+h4 {
+    text-align: center; color: green; word-spacing: 10px;
+}
+p{
+    color: brown;
+}
+.content {
+    background-color: orange;
+}
+
+body{
+    font-family: T;
+}
